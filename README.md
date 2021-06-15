@@ -2,8 +2,8 @@
         <div style="text-align:center;"><h2>
            What can we do in this website?
             </h2></div>
-        <div style="text-align:center;"><h2>If people want to know the newest movie, you can check this website to know
-           </h2></div>
+        <div style="text-align:center;"><h4>If people want to know the newest movie, you can check this website to know
+           </h4></div>
         <h3>開發者檔案</h3>
         <p>
         &nbsp;&nbsp;&nbsp;&nbsp;從C語言到物件導向的Java、到網站架構的前端語言html、css跟JavaScript，這些都是我曾接觸過的，但無一專精也無一精通。在大二下選修了開放軟體實務的課程，希望能藉此機會認識更多程式語言與應用介面。
