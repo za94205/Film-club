@@ -9,11 +9,10 @@
         Basically focus on HTML, and PHP
         </p>
         
-        <h2>The installation, configuration, and execution</h2>
-        <p>
+        The installation, configuration, and execution
+       
         installation: Visiual Code
-        </p>
-        <h2>
+        
         <p>
        
         </p>
