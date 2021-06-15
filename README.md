@@ -11,7 +11,7 @@
         
         <h2>The installation, configuration, and execution</h2>
         <p>
-       在網路炙手可得的時代，任何想了解的資訊總能透過"搜尋"鍵，找到幾乎無奇不有的解答。而在密密麻麻的搜尋結果中，我們難免需要透過一些篩選及整理才能找到最想要的答案。因此我們希望能透過架設專屬網頁，打造一個整合相關資訊的平台。
+        installation: Visiual Code
         </p>
         <h2>
         <p>
