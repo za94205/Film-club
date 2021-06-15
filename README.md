@@ -1,4 +1,4 @@
-<h1>Film Club</h1></div>
+<h1>Film Club</h1>
         <div style="text-align:center;"><h2>
            The goal of the project
             </h2>
