@@ -1,8 +1,8 @@
 <div style="text-align:center;"><h1>Film Club</h1></div>
         <div style="text-align:center;"><h2>
-           What can we do in this website?
+           The goal of the project
             </h2></div>
-        <div style="text-align:center;"><h4>If people want to know the newest movie, you can check this website to know
+        <div style="text-align:center;"><h4>If people want to know the newest movie, you can check this website to know. We also put some infromation about the movie and trailers on the website. But the main point is that we create the registeration system to store the user's information.
            </h4></div>
         <h3>開發者檔案</h3>
         <p>
