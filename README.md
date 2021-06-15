@@ -1,3 +1,3 @@
 專案名稱: Film Club {
-	front size: 100;
+	font-size: 100;
 	}
