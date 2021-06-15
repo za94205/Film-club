@@ -1,6 +1,6 @@
-<div style="text-align:center;"><h1>DroneEview</h1></div>
+<div style="text-align:center;"><h1>Film Club</h1></div>
         <div style="text-align:center;"><h2>
-           Film Club
+           What can we do in this website?
             </h2></div>
         <div style="text-align:center;"><h2>
             因為我們給了你「全世界」</h2></div>
