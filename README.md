@@ -2,7 +2,7 @@
         <div style="text-align:center;"><h2>
            What can we do in this website?
             </h2></div>
-        <div style="text-align:center;"><h2>
+        <div style="text-align:center;"><h2>If people want to know the newest movie, you can check this website to know
            </h2></div>
         <h3>開發者檔案</h3>
         <p>
