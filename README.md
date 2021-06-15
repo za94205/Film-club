@@ -9,18 +9,5 @@
         Basically focus on HTML, and PHP
         </p>
         
-        The installation, configuration, and execution
        
-        installation: Visiual Code
-        
-        <p>
-       
-        </p>
-        </h2>
-      
-        <p>
-        
-        </p>
- 
-    </body>
 </html>
